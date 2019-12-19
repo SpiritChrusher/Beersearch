@@ -1,0 +1,15 @@
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\BeerSearch.csprojAssemblyReference.cache
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\AddingPage.xaml.g.cs
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\SearchPage.xaml.g.cs
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\BeerSearch.AssemblyInfoInputs.cache
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\BeerSearch.AssemblyInfo.cs
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\bin\Release\netstandard2.0\BeerSearch.deps.json
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\bin\Release\netstandard2.0\BeerSearch.dll
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\bin\Release\netstandard2.0\ref\BeerSearch.dll
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\bin\Release\netstandard2.0\BeerSearch.pdb
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\BeerSearch.dll
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\ref\BeerSearch.dll
+C:\Users\Nergal\source\repos\BeerSearch\BeerSearch\obj\Release\netstandard2.0\BeerSearch.pdb

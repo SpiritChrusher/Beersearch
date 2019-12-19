@@ -1,0 +1,1502 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sörök>
+
+<sör név = "Apostel Weissbier">
+    <alkohol>5.3</alkohol>
+    <íz>Kicsit keserű, kicsit karamellás, kellemes búzasör</íz>
+    <származás>német</származás>
+    <típus>Búzasör</típus>
+    <fogyasztás>ivósör</fogyasztás>	
+    <ár>300</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Interspar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név="Arany Ászok">
+    <alkohol>4.3</alkohol>
+    <íz>Kicsit keserű, enyhe íz</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>240</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>InterSpar, Spar, Tesco</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Arany Szarvas">
+    <alkohol>4.2</alkohol>
+    <íz>Egész kellemes, nem erős íz</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>180</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Auchan</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+    <sör név = "Arany Szarvas barna">
+    <alkohol>5.2</alkohol>
+    <íz>Enyhén barnasör íz, alkoholos</íz>
+    <típus>Barna Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>180</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Auchan</beszerzés>
+	<árérték>5</árérték>
+  </sör>
+    
+  <sör név="ARGUS Maestic">
+    <alkohol>4.8</alkohol>
+    <íz>Könnyen iható, nem túl erős, korrekt lager</íz>
+    <származás>cseh</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>210</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név="ARGUS Piros">
+    <alkohol>5.0</alkohol>
+    <íz>Tipikus lager, nem túl keserű, nem túl erős, könnyen iható</íz>
+    <származás>cseh</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>175</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="ARGUS 16 Strong">
+    <alkohol>7.0</alkohol>
+    <íz>Könnyen iható, karamelles, kicsit keserű</íz>
+    <származás>cseh</származás>
+    <típus>barna Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név="ARGUS Szürke">
+    <alkohol>4.0</alkohol>
+    <íz>Gyenge lager, nem túl keserű, nagyon könnyen iható</íz>
+    <származás>cseh</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>170</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Asahi">
+    <alkohol>5.2</alkohol>
+    <íz>Kicsit keserű, jellegtelen íz</íz>
+    <származás>olasz</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>280</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Interspar, Tesco,</beszerzés>
+	<árérték>3</árérték>
+  </sör>
+  
+   <sör név = "Birra Moretti">
+    <alkohol>4.6</alkohol>
+    <íz>Kukoricás, kicsit keserű, nem jó</íz>
+    <típus>Lager</típus>
+    <származás>olasz</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Birra Peroni">
+    <alkohol>4.6</alkohol>
+    <íz>Mint a kőbányai, ne idd.</íz>
+    <típus>Lager</típus>
+    <származás>olasz</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>290</ár>
+    <minőség>2.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Beck's">
+    <alkohol>5.0</alkohol>
+    <íz>Picit keserű utóíz, jellegtelen íz, szénsavas</íz>
+    <típus>Lager</típus>
+    <származás>Cseh</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár> 270</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>Spar, TESCO, Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+   <sör név = "Bocskai Ír Vörös">
+    <alkohol>5.7</alkohol>
+    <íz>kellemes, kicsit keserű, könnyen iható vörös sör íz</íz>
+    <származás>magyar</származás>
+    <típus>Vörös Ale</típus>
+    <fogyasztás>félig buzulós</fogyasztás>	
+    <ár>500</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>saját</beszerzés>
+	<árérték>6.5</árérték>
+  </sör>
+
+  
+   <sör név = "Borsodi Tüzes">
+    <alkohol>4.5</alkohol>
+    <íz>Enyhe, kicsit keserű, kicsit vörös sör íz</íz>
+    <származás>magyar</származás>
+    <típus>Vörös Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>	
+    <ár>230</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Budwiser">
+    <alkohol>5.0</alkohol>
+    <íz>Nem túl erős íz, nem túl keserű, nem karakteres sör</íz>
+    <típus>Lager</típus>
+    <származás>cseh</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Auchan, TESCO, InterSpar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Budwiser dark">
+    <alkohol>5.0</alkohol>
+    <íz>Kellemes barna sör</íz>
+    <típus>Lager</típus>
+    <származás>cseh</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Auchan, TESCO, InterSpar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név="Csíki">
+    <alkohol>6.0</alkohol>
+    <íz>Közepesen keserű, korrekt íz</íz>
+    <származás>székelyföld</származás>
+    <típus>Bock</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>360</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Kocsma</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  
+   <sör név="Csíki Szűretlen">
+    <alkohol>5.0</alkohol>
+    <íz>Kellemes természetes íz, enyhén komlós, könnyen iható</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>280</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="De Helder mild">
+    <alkohol>3.5</alkohol>
+    <íz>Szénsavas, nagyon vizes, kicsit keserű utóíz</íz>
+    <származás>magyar??</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>160</ár>
+    <minőség>2.5</minőség>
+    <beszerzés>Tesco</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+    <sör név="De Helder Bronz??">
+    <alkohol>3.5</alkohol>
+    <íz>Kicsit keserű, kicsit vizes, könnyen iható</íz>
+    <származás>magyar??</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>160</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Tesco</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+    <sör név="De Helder Unfiltered">
+    <alkohol>5.0</alkohol>
+    <íz>Könnyen iható, kellemes, kicsit keserű</íz>
+    <származás>magyar??</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>210</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>Tesco</beszerzés>
+	<árérték>7</árérték>
+  </sör>
+  
+   <sör név = "Egger">
+    <alkohol>7.2</alkohol>
+    <íz>Erős, alkoholos, édeskés íz</íz>
+    <típus>Bock</típus>
+    <származás>osztrák</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>250</ár>
+    <minőség>123</minőség>
+    <beszerzés>Aldi</beszerzés>
+	<árérték>5</árérték>
+  </sör>
+  
+  <sör név ="F">
+    <alkohol>5.0</alkohol>
+    <íz>kellemesen keserű, könnyen iható, finom</íz>  
+    <származás>Belga</származás>
+	<típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>350</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>5</árérték>
+  </sör>
+  
+  <sör név="First APA">
+    <alkohol>4.8</alkohol>
+    <íz>Citrusos, kellemes íz, nem keserű</íz>
+    <származás>magyar</származás>
+    <típus>American Pale Ale</típus>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>500</ár>
+    <minőség>6.0</minőség>
+    <beszerzés>TESCO, Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="First IPA">
+    <alkohol>5.6</alkohol>
+    <íz>Citrusos, kellemes, kicsit keserű</íz>
+    <származás>magyar</származás>
+    <típus>Indian Pale Ale</típus>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>500</ár>
+    <minőség>6.0</minőség>
+    <beszerzés>TESCO, Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Fuller's London Pride Premium Ale">
+    <alkohol>4.7</alkohol>
+    <íz>Kellemes karamellás, jó angol ale</íz>
+    <származás>angol</származás>
+    <típus>Ale</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>900</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név="Guiness">
+    <alkohol>4.2</alkohol>
+    <íz>Kellemes, selymes, könnyű, enyhén stoutos</íz>
+    <származás>angol</származás>
+    <típus>Stout</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>700</ár>
+    <minőség>7.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Gyertyános Pils">
+    <alkohol>4.6</alkohol>
+    <íz>Kellemes pils típusú, enyhén keserű utóíz</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>370</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>Gyertyános sörfőzde</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Gyertyános Barna Gyémánt">
+    <alkohol>5.5</alkohol>
+    <íz>Kellemesen kávés, füstös ízvilágú</íz>
+    <típus>Barna lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>670</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>Gyertyános sörfőzde</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+    <sör név = "Gyertyános Kazamata">
+    <alkohol>8.0</alkohol>
+    <íz>Nyers, élesztős utóíz, könnyen iható</íz>
+    <típus>Imperial lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>900</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Gyertyános sörfőzde</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Happy Easter">
+    <alkohol>6.4</alkohol>
+    <íz>Nagyon kellemes, közepesen keserű, kicsit füstös</íz>
+    <típus>Amerikai Indian Pale Ale</típus>
+    <származás>magyar</származás>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>900</ár>
+    <minőség>8.5</minőség>
+    <beszerzés>InterSpar, Stay</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név = "Heineken">
+    <alkohol>5.0</alkohol>
+    <íz>Nagyon szénsavas, kellemetlenül keserű</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>	
+    <ár>280</ár>
+    <minőség>2.0</minőség>
+    <beszerzés>Spar, TESCO, Interspar, Coop</beszerzés>
+	<árérték>2</árérték>
+  </sör>
+    
+  <sör név="Deep Kék">
+    <alkohol>3.0</alkohol>
+    <íz>Elég vizes, nagyon enyhén kesernény</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>120</ár>
+    <minőség>2.0</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név="Deep Zöld">
+    <alkohol>4.0</alkohol>
+    <íz>Közepesen vizes, már iható enyhe lager</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>130</ár>
+    <minőség>2.5</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Desperados tequila sör">
+    <alkohol>5.9</alkohol>
+    <íz>Citrusos, nem igazán tequilás, jól csúszik</íz>
+    <származás>lengyel</származás>
+    <típus>Ale</típus>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>380</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Dreher Red Ale">
+    <alkohol>4.8</alkohol>
+    <íz>Kellemesen keserű, pörkölt utóíz, könnyen iható</íz>
+    <származás>német</származás>
+    <típus>Red Ale</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>280</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>TESCO, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Edelwiess">
+    <alkohol>5.3</alkohol>
+    <íz>Definitív búzasör íz</íz>
+    <származás>német</származás>
+    <típus>Búzasör</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>400</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>InterSpar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  
+  <sör név="Gösser">
+    <alkohol>5.1</alkohol>
+    <íz>Kellemes íz,kicsit keserű, jó lager</íz>
+    <származás>osztrák?</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>260</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>InterSpar, Tesco</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Hoegaarden">
+    <alkohol>4.9</alkohol>
+    <íz>Tömény ízvilág, fűszeres búzasör</íz>
+    <származás>Begla</származás>
+    <típus>Begla búzasör</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>530</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>Interspar, Spar, Tesco</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Hoegaarden Rosée">
+    <alkohol>4.9</alkohol>
+    <íz>Nagyon édes, málnás szörp</íz>
+    <származás>Begla</származás>
+    <típus> Belga búzasör</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>530</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Interspar, Spar, Tesco</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Hofbrau">
+    <alkohol>4.0</alkohol>
+    <íz>Vizes, lageresen keserű</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>210</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>TESCO, Interspar, Spar, Coop</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Karlovacko">
+    <alkohol>5.0</alkohol>
+    <íz>Kozepesen keserű, kicsit édeskés, könnyen iható</íz>
+    <származás>lengyel</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>6</árérték>
+  </sör>
+  
+  <sör név="Leffe Blond">
+    <alkohol>6.6</alkohol>
+    <íz>Nagyon kellemes, selymes, kicsit búzasör íz</íz>
+    <származás>belga</származás>
+    <típus>Belga</típus>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>500</ár>
+    <minőség>7.0</minőség>
+    <beszerzés>TESCO, Interspar, Spar, Coop</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Leffe Brune">
+    <alkohol>6.5</alkohol>
+    <íz>Nagyon kellemes, selymes, kicsit  barna búzasör íz</íz>
+    <származás>belga</származás>
+    <típus>Belga</típus>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>500</ár>
+    <minőség>7.0</minőség>
+    <beszerzés>TESCO, Interspar, Spar, Coop</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Paulaner">
+    <alkohol>4.9</alkohol>
+    <íz>Kellemes, kicsit keserű utóíz</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>360</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Soproni APA">
+    <alkohol>5.5</alkohol>
+    <íz>Komlós, keserű, kellemes ízvilágú</íz>
+    <származás>magyar</származás>
+    <típus>American Pale Ale</típus>
+    <fogyasztás>ivósör</fogyasztás>	
+    <ár>280</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Soproni IPA">
+    <alkohol>4.8</alkohol>
+    <íz>Nem igazi IPA, gyümölcsös, nem túl erős</íz>
+    <származás>magyar</származás>
+    <típus>Indian Pale Ale</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>280</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Soproni Démon">
+    <alkohol>5.2</alkohol>
+    <íz>Barna sörös íz</íz>
+    <származás>magyar</származás>
+    <típus>barna</típus>
+    <fogyasztás>ivósör</fogyasztás>	
+    <ár>280</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Primator">
+    <alkohol>4.0</alkohol>
+    <íz>Basic cseh típusú sör</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Steam Brew German Red">
+    <alkohol>7.9</alkohol>
+    <íz>Kellemes illatú, enyhén kesernény, édeskés utóíz</íz>
+    <típus>Red Ale</típus>
+    <származás>német</származás>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>360</ár>
+    <minőség>7</minőség>
+    <beszerzés>InterSpar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Steam Brew Imperial Stout">
+    <alkohol>7.5</alkohol>
+    <íz>Erős, tömény, kávés ízű finom sör</íz>
+    <típus>Imparial Stout</típus>
+    <származás>német</származás>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>360</ár>
+    <minőség>7.0</minőség>
+    <beszerzés>InterSpar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+    <sör név = "Steam Brew Imperial IPA">
+    <alkohol>4.8</alkohol>
+    <íz>Komlós, keserű, kellemes ízvilágú</íz>
+    <típus>Imparial IPA</típus>
+    <származás>német</származás>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>360</ár>
+    <minőség>7</minőség>
+    <beszerzés>InterSpar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Kozel">
+    <alkohol>4.6</alkohol>
+    <íz>Komlós, kellemes ízvilágú</íz>
+    <típus>Lager</típus>
+    <származás>Cseh</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>270</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Spar, TESCO, InterSpar, Coop</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Sixtusbräu">
+    <alkohol>4.2</alkohol>
+    <íz>Basic német sör</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>170</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Karlskrone">
+    <alkohol>5.0</alkohol>
+    <íz>kellemes ízű, nem túl tolakodóan búztasör</íz>
+    <származás>Német</származás>
+    <típus>Búzasör</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>0</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név="Dreher Bak">
+    <alkohol>7.2</alkohol>
+    <íz>Erős karamellás barna sör, elég nehéz, de kettőtől jól érezheted magad</íz>
+    <származás>magyar</származás>
+    <típus>Strong lager, BOCK</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>280</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Soproni 1895">
+    <alkohol>5.3</alkohol>
+    <íz>Erős keserű világos sör, elég egyedi íz, Saazer komló</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>260</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Pilsner Urquell">
+    <alkohol>4.4</alkohol>
+    <íz>Definitív cseh pils íz, elég szénsavas, keserű</íz>
+    <származás>magyar</származás>
+    <típus>cseh típusú lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>270</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Dreher (Gold)">
+    <alkohol>5.0</alkohol>
+    <íz>Az alap Dreher sör, kukoricamentesen, kissé vizes íz, kellemes nem túl keserű, a Sopronihoz hasonló</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>260</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Dreher Pale Ale">
+    <alkohol>4.8</alkohol>
+    <íz>Édeskés, nem túl keserű, gyenge íz</íz>
+    <típus>Pale Ale</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>280</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Auchan, TESCO, InterSpar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Barths Extra Strong">
+    <alkohol>8.3</alkohol>
+    <íz>Nem túl okos, de cserébe kurva erős, kissé édeskés, enyhén keserű, de kurva erős. (Dara veszély)</íz>
+    <származás>szlovén</származás>
+    <típus>Strong lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>270</ár>
+    <minőség>0.0</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Berg König Kék">
+    <alkohol>5.0</alkohol>
+    <íz>Tipikus német sör, kicsit vizesebb utóíz, könnyen iható, nem túl erős</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>180</ár>
+    <minőség>4</minőség>
+    <beszerzés>Aldi</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Berg König Zöld">
+    <alkohol>5.2</alkohol>
+    <íz>Tipikus német sör, nem túl erős, könnyen iható, komlós utóíz</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>175</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>Aldi</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Berg König 3,0">
+    <alkohol>3.0</alkohol>
+    <íz>Vízes, nyáron, kerti munkához tökéletes</íz>
+    <típus>lager</típus>
+    <származás>lengyel</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>170</ár>
+    <minőség>2.5</minőség>
+    <beszerzés>Aldi</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Berg König Premium">
+    <alkohol>5.0</alkohol>
+    <íz>Erős illatú, enyhén keserű sör</íz>
+    <típus>lager</típus>
+    <származás>osztrák</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>230</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Aldi</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Radeberger">
+    <alkohol>4.8</alkohol>
+    <íz>Enyhén keserű, kellemes német lager</íz>
+    <típus>lager</típus>
+    <származás>német</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>400</ár>
+    <minőség>6.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Rastinger">
+    <alkohol>4.0</alkohol>
+    <íz>Közepesen vízes,kicsit keserű</íz>
+    <származás>cseh</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>180</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Kőbányai">
+    <alkohol>4.3</alkohol>
+    <íz>Vizes, keserű, nem erős, könnyen iható, valahol van benne komló is, meg dara, na az sok</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>210</ár>
+    <minőség>2.0</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Borsodi">
+    <alkohol>4.5</alkohol>
+    <íz>Közepesen keserű, könnyen iható</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>230</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>Spar, TESCO, Coop</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Borsodi Mester">
+    <alkohol>5.0</alkohol>
+    <íz>Édeskés íz, komlós keserű utóíz, könnyen iható, nem túl erős</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>250</ár>
+    <minőség>4,5</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Kronnenburg 1664">
+    <alkohol>5.0</alkohol>
+    <íz>Kellemes, csak enyhén, alig érezhetően bűzasör jellegű sör</íz>
+    <típus>Búzasör</típus>
+    <származás>francia</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>270</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Blanc 1664">
+    <alkohol>5.0</alkohol>
+    <íz>Édeskés, kellemesen gyülölcsös nyári sör</íz>
+    <típus>Búzasör</típus>
+    <származás>francia</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>270</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>Spar, TESCO</beszerzés>  
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név = "Zipfer">
+    <alkohol>5.4</alkohol>
+    <íz>Amilyennek egy lagernek lennie kell</íz>
+    <típus>Lager</típus>
+    <származás>osztrák</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+    
+  <sör név = "Ottakringer">
+    <alkohol>5.2</alkohol>
+    <íz>Kiegyensúlyozott ízvilágú</íz>
+    <típus>Lager</típus>
+    <származás>bécsi</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>250</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név = "Tequila sör">
+    <alkohol>6.0</alkohol>
+    <íz>Citromos, alkohol alig érezhető, kukoricás utóíz</íz>
+    <típus>világos sör</típus>
+    <származás>lengyel</származás>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>230</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név="Kozel barna">
+    <alkohol>3.8</alkohol>
+    <íz>karamellás, enyhén pörkölt íző, visszafogott kellemes sör</íz>
+    <származás>cseh</származás>
+    <típus> Barna Lager</típus>
+    <típus> Barna Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>260</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Lidl, Aldi, Tesco, Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+<sör név="Meggyes barna">
+    <alkohol>6.5</alkohol>
+    <íz>Meggyes, lágy, édes íz</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>450</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Mob söröző</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+   <sör név="Pilseni">
+    <alkohol>4.5</alkohol>
+    <íz>Fiatal komlós íz</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>290</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Mob söröző</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név="Pécsi Szalon Limited">
+    <alkohol>4.6</alkohol>
+    <íz>Kissé édeskés, enyhe, kellemes nyári sör</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>220</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Lidl, Aldi, Tesco, Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név="Praga Premium Pils">
+    <alkohol>4.7</alkohol>
+    <íz>Tipikus cseh sör, egyenletesen enyhén keserű</íz>
+    <származás>cseh</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+
+   <sör név="Jam 72">
+    <alkohol>7.2</alkohol>
+    <íz>Kellemes, kicsit keserű,</íz>
+    <származás>magyar</származás>
+    <típus>Indian Pale Ale</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>1030</ár>
+    <minőség>8.0</minőség>
+    <beszerzés>Stay</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+<sör név="AgrárX">
+    <alkohol>8.0</alkohol>
+    <íz>Közepesen keserű, citrusos, kicsit pörkölt</íz>
+    <származás>magyar</származás>
+    <típus>félbarna Indian Pale Ale</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>700</ár>
+    <minőség>7.5</minőség>
+    <beszerzés>Stay</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+<sör név="Bernard barna">
+    <alkohol>5.0</alkohol>
+    <íz>Kellemes, kicsit karamelles, kicsit keserű, könnyen iható</íz>
+    <származás>cseh</származás>
+    <típus>barna</típus>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>450</ár>
+    <minőség>6.0</minőség>
+    <beszerzés>Auchan</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+<sör név="Ceyon Buddy Teás Double IPA">
+    <alkohol>9.1</alkohol>
+    <íz>komplex, teás, közepesen keserű..</íz>
+    <származás>magyar</származás>
+    <típus>Indian Pale Ale</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>1030</ár>
+    <minőség>8.5</minőség>
+    <beszerzés>Stay</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Csíki krém sör">
+    <alkohol>4.5</alkohol>
+    <íz>Kicsit, keserű, könnyen iható</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>290</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>Spar, Inserpsar, Tesco</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+<sör név="Hobgoblin">
+    <alkohol>5.2</alkohol>
+    <íz>Kellemes, nem keserű, kicsit édes, angol ale íz</íz>
+    <származás>angol</származás>
+    <típus>Ale</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>800</ár>
+    <minőség>8.5</minőség>
+    <beszerzés>Auchan,Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+  <sör név="Konrad">
+    <alkohol>5.2</alkohol>
+    <íz>Enyhen keserű, egyedibb íző, szárazabb cseh lager</íz>
+    <származás>cseh</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>280</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név="Lobkowicz">
+    <alkohol>4.7</alkohol>
+    <íz>Közepesen keserű, cseh típus, könnyen iható</íz>
+    <származás>cseh</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300(?)</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Auchan</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+<sör név="Monkey Temple">
+    <alkohol>4.6</alkohol>
+    <íz>Kellemes, kicsit keserű, citrusos, búzasör</íz>
+    <származás>magyar</származás>
+    <típus>bajor búzasör</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>800</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>Inserpsar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+<sör név="Mort Subite">
+    <alkohol>4.0</alkohol>
+    <íz>Nagyon meggyes, nagyon édes</íz>
+    <származás>Belga</származás>
+    <típus>Belga</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>470</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>TESCO, Interspar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Night Shift">
+    <alkohol>10.0</alkohol>
+    <íz>Komplex, tömény, nagyon keserű, kellemes ízvilág</íz>
+    <származás>magyar</származás>
+    <típus>Russian Imparial Stout</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>1550</ár>
+    <minőség>9.0</minőség>
+    <beszerzés>Stay</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  
+  <sör név="Oettinger Búza">
+    <alkohol>4.9</alkohol>
+    <íz>Alap búzasör</íz>
+    <származás>német</származás>
+    <típus>Búzasör</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>200</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>TESCO, Interspar, Spar, Coop</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Oettinger Barna">
+    <alkohol>4.9</alkohol>
+    <íz>Tömény íz, kellemes, enyhés Stout-os</íz>
+    <származás>német</származás>
+    <típus>Barna Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>240</ár>
+    <minőség>5</minőség>
+    <beszerzés>TESCO, Interspar, Spar, Coop</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Paulaner Salvator">
+    <alkohol>7.9</alkohol>
+    <íz>Erősen karamelles...</íz>
+    <származás>német</származás>
+    <típus>BOCK</típus>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>400</ár>
+    <minőség>6.0</minőség>
+    <beszerzés>Auchan</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+    <sör név="Perlenbacher">
+    <alkohol>4.9</alkohol>
+    <íz>Kicsit keserű,kicsit vizes, enyhe íz</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>185</ár>
+    <minőség>5.0</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Pécsi Prémium Pils">
+    <alkohol>4.7</alkohol>
+    <íz>Nagyon enyhe, érezhetően szűretlen, kellemes nyári sör</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>220</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Auchan, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név = "Pécsi Szalon">
+    <alkohol>4.6</alkohol>
+    <íz>Kicsit vizes, enyhe könnyű sör, kellemtlen utóíz</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>220</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>Auchan, TESCO</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Pécsi Prémium Lager">
+    <alkohol>5.0</alkohol>
+    <íz>Egész kellemes ízvilágú, de enyhén vizes</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>250</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Auchan, TESCO, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Pécsi APA">
+    <alkohol>5.0</alkohol>
+    <íz>Citrusos, kellemetlül keserű utóíz</íz>
+    <típus>American Pale Ale</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>260</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Auchan, TESCO, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Popstar">
+    <alkohol>6.0</alkohol>
+    <íz>Közepesen keserű, definitív IPA íz. kellemes</íz>
+    <származás>magyar</származás>
+    <típus>IPA</típus>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>300(?)</ár>
+    <minőség>7.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Hajdú Serház Session ALe">
+    <alkohol>4.6</alkohol>
+    <íz>Kellemes, citrusos, könnyen iható</íz>
+    <származás>magyar</származás>
+    <típus>Session Ale</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>700</ár>
+    <minőség>6.0</minőség>
+    <beszerzés>Hajdúböszörmény</beszerzés>
+	<árérték>4.5</árérték>
+  </sör>
+   
+   <sör név="Hombre Corn">
+    <alkohol>4.8</alkohol>
+    <íz>Könnyen iható, édeskés, kukoricás íz</íz>
+    <származás>magyar</származás>
+    <típus>Kukoricasör</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>350?</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Lidl</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+   
+  <sör név="Tokyo Lemonade">
+    <alkohol>4.2</alkohol>
+    <íz>Kellemes, kicsit keserű, belga élesztős, citrusos</íz>
+    <származás>magyar</származás>
+    <típus>belga búzasör</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>800</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>Inserpsar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  
+  
+  
+  <sör név="Borsodi Bivaly">
+    <alkohol>6.5</alkohol>
+    <íz>Kellemetlen, keserű, rossz, nagyon enyhe,</íz>
+    <származás>magyar</származás>
+    <típus>Strong Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>270</ár>
+    <minőség>2.0</minőség>
+    <beszerzés>Spar, Inserpsar, Tesco</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Grimmbergen Double">
+    <alkohol>6.5</alkohol>
+    <íz>Könnyű, barna sörös, erős karamelles ízvilág, malátás, könnyen iható</íz>
+    <származás>francia</származás>
+    <típus>Belga barna</típus>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>450</ár>
+    <minőség>7.0</minőség>
+    <beszerzés>Interspar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+    <sör név="Meantime London IPA">
+    <alkohol>7.4</alkohol>
+    <íz>Pörkölt, erősen karamelles, közepesen keserű</íz>
+    <származás>angol</származás>
+    <típus>Lager</típus>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>450</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>Tesco</beszerzés>
+	<árérték>2.0</árérték>
+  </sör>
+  
+  <sör név="Singha">
+    <alkohol>5.0</alkohol>
+    <íz>Enyhe, kevés íz</íz>
+    <származás>thaiföldi</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>500</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Auchan</beszerzés>
+	<árérték>2.0</árérték>
+  </sör>
+  
+  <sör név="Soprni Meggy Ale">
+    <alkohol>4.0</alkohol>
+    <íz>kellemesen emgyyes, közepesen édes, enyhe</íz>
+    <származás>magyar</származás>
+    <típus>Meggy Ale</típus>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>275</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>Dohánybolt</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név = "Staropramen">
+    <alkohol>5.0</alkohol>
+    <íz>Kicsit keserű, szénsavas, könnyen iható</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>250</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Auchan, TESCO, InterSpar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név = "Staropramen Dark">
+    <alkohol>4.4</alkohol>
+    <íz>Kcisit búzasörös, fura utóíz</íz>
+    <típus>barna lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>250</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Auchan, TESCO, InterSpar, Spar</beszerzés>
+	<árérték>4</árérték>
+  </sör>
+  
+  <sör név = "Staropramen Granat">
+    <alkohol>4.8</alkohol>
+    <íz>Kellemes, kicsit barnasör íz</íz>
+    <típus>Lager</típus>
+    <származás>cseh</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>250</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Auchan, TESCO, InterSpar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név = "Staropramen Unfiltered">
+    <alkohol>5.0</alkohol>
+    <íz>Közepesen keserű, szénsavas, könnyen iható</íz>
+    <típus>Lager</típus>
+    <származás>cseh</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>250</ár>
+    <minőség>3.5</minőség>
+    <beszerzés>Auchan, TESCO, InterSpar, Spar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név = "Steffl">
+    <alkohol>4.2</alkohol>
+    <íz>Nem rossz, de jellegtelen</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>210</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név="Steiger 1473">
+    <alkohol>5.0</alkohol>
+    <íz>Enyhen keserű, pörkölt középíz, fura utóíz</íz>
+    <származás>cseh</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>270</ár>
+    <minőség>4.0</minőség>
+    <beszerzés>Auchan</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név="Szarvasi világos sör">
+    <alkohol>5.0</alkohol>
+    <íz>Kellemes, könnyű, kicsit édeskés</íz>
+    <származás>magyar</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>400</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>6</árérték>
+  </sör>
+  
+  <sör név = "Szent András Rettegett Iván">
+    <alkohol>9.0</alkohol>
+    <íz>Karakteres, karamelles, étcsokis, kellems ízvilág, tömény imperial stout</íz>
+    <származás>magyar</származás>
+    <típus>Russian Imperial Stout</típus>
+    <fogyasztás>buzulós</fogyasztás>	
+    <ár>1150</ár>
+    <minőség>9.0</minőség>
+    <beszerzés>Stay, Gedeon</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  
+   <sör név="Tennent's Stout">
+    <alkohol>4.7</alkohol>
+    <íz>Kellemes kávés, nem túl erős íz</íz>
+    <származás>skót</származás>
+    <típus>Stout</típus>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>500</ár>
+    <minőség>6.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név="Tennent's Whiskey">
+    <alkohol>6.0</alkohol>
+    <íz>Komplex, jól csúszó</íz>
+    <származás>skót</származás>
+    <típus>whiskey sör</típus>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>500</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+
+<sör név = "Tesco Finest Ale">
+    <alkohol>5.2</alkohol>
+    <íz>Kellemes, kávés, könnyen iható</íz>
+    <típus>Ale</típus>
+    <származás>angol</származás>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>330</ár>
+    <minőség>5.5</minőség>
+    <beszerzés>Tesco</beszerzés>
+	<árérték>5</árérték>
+  </sör>
+
+ <sör név = "Tesco Finest Stout">
+    <alkohol>4.8</alkohol>
+    <íz>Kellemes, kávés, könnyen iható</íz>
+    <típus>Stout</típus>
+    <származás>angol</származás>
+    <fogyasztás>félig buzulós</fogyasztás>
+    <ár>330</ár>
+    <minőség>6.5</minőség>
+    <beszerzés>Tesco</beszerzés>
+	<árérték>6</árérték>
+  </sör>
+  
+     <sör név = "Trooper">
+    <alkohol>4.7</alkohol>
+    <íz>Lágy, kicsit keserű vörös sör íz</íz>
+    <típus>Red Ale</típus>
+    <származás>angol</származás>
+    <fogyasztás>buzulós</fogyasztás>
+    <ár>900</ár>
+    <minőség>8.0</minőség>
+    <beszerzés>,Auchan, InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név = "Tuborg">
+    <alkohol>4.6</alkohol>
+    <íz>Nem rossz, de jellegtelen</íz>
+    <típus>Lager</típus>
+    <származás>dánia(szerb)</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>200</ár>
+    <minőség>3.0</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+   <sör név = "Valentins">
+    <alkohol>5.3</alkohol>
+    <íz>Enyhe, korrekt búzasör íz</íz>
+    <származás>német</származás>
+    <típus>búzasör</típus>
+    <fogyasztás>ivósör</fogyasztás>	
+    <ár>270</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>Aldi</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  <sör név="Warsteiner">
+    <alkohol>4.8</alkohol>
+    <íz>könnyen iható, közepesen komlós íz, nem keserű</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>270</ár>
+    <minőség>4.5</minőség>
+    <beszerzés>InterSpar</beszerzés>
+	<árérték>0</árérték>
+  </sör>
+  
+  </sörök>

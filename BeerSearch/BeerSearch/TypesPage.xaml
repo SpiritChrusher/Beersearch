@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BeerSearch.TypesPage">
+    
+    
+    <StackLayout BackgroundColor="Linen">
+        <Label Text="Keress típus alapján!"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" 
+                   FontSize="28" 
+                   />
+
+        <Entry x:Name="beerentry" Placeholder="Pl: American Pale Ale"
+               VerticalOptions="Center" HorizontalOptions="Center"
+               />
+
+
+        <Button x:Name="keres" Text="Keresés" 
+                    HorizontalOptions="Center" VerticalOptions="Center"
+                WidthRequest="160" BorderColor="Beige" FontSize="Large"/>
+
+        <Button x:Name="clear" Text="Töröl" 
+                VerticalOptions="Center" HorizontalOptions="End"/>
+
+        <Label x:Name="displaybeer" FontSize="14" FontAttributes="Bold"
+               VerticalOptions="FillAndExpand" LineBreakMode="WordWrap" 
+               HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+</ContentPage>
